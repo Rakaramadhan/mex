@@ -39,57 +39,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true],
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true]
+['62882006212045', 'KhaTheInvisble✓', true],
+['62882006212045', 'KhaTheInvisble✓', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166285'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '62882006212045'
+global.nomorown = '62882006212045'
+global.nomorown1 = '62882006212045'
+global.nomorown2 = '62882006212045'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.author = 'Created By KhaTheInvisble✓'
+global.namebot = '𝙆 𝙝 𝙖 𝙖-Md'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 KhaTheInvisble✓'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ '
+global.wm2 = 'KhaTheInvisble✓'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`
-global.stickpack = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.stickauth = `© ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ MD`
+global.titlebot = `𝙆 𝙝 𝙖 𝙖-Md✓ 𝐗 KhaTheInvisble✓`
+global.stickpack = '𝙆 𝙝 𝙖 𝙖-Md✓ 𝐗 KhaTheInvisble✓'
+global.stickauth = `© 𝙆 𝙝 𝙖 𝙖-Md✓`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.nameown2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
+global.nameown1= 'KhaTheInvisble✓'
+global.nameown2 = '𝙆 𝙝 𝙖 𝙖-Md✓'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kahfiofc0'
-global.sgh = 'https://github.com/Frezzy-XD' //github
+global.sig = 'https://instagram.com/raka.ramadhan180108'
+global.sgh = 'https://github.com/Rakaramadhan
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = 'https://www.youtube.com/@KhaTheHard'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0853-8016-6282'
+global.pdana = '0856-9156-1529'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.ppulsa = '0882006212045'
+global.ppulsa2 = '0882006212045'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 
